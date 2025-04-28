@@ -1,0 +1,26 @@
+Stock Screening Results
+=====================
+
+Backtest Date: 01-01-2020
+Lookback Days: 20
+Total stocks screened: 3
+Stocks passing all filters: 2
+
+Applied Filters:
+- lowest_price: > 10
+- highest_price: < 100
+- volume_price: > 1000000
+
+Passing Stocks:
+==============
+
+Symbol: AAPL
+Lowest price (20 days): $62.81
+Highest price (20 days): $71.09
+Total Volume*Price (20 days): $154,304,081,224.46
+--------------------------------------------------
+Symbol: GOOGL
+Lowest price (20 days): $64.43
+Highest price (20 days): $67.80
+Total Volume*Price (20 days): $35,611,245,134.69
+--------------------------------------------------
