@@ -1,0 +1,11 @@
+Stock Screening Results
+=====================
+
+Backtest Date: 01-01-2025
+Lookback Days: 60
+Total stocks screened: 5
+Stocks passing all filters: 0
+Minimum price change required: 30.0%
+
+Applied Filters:
+- volume_price: > 50000000

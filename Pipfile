@@ -4,8 +4,9 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-yfinance = ">=0.2.36"
 pandas = ">=2.0.0"
+matplotlib = ">=3.7.0"
+yfinance = ">=0.2.36"
 
 [dev-packages]
 

@@ -1,0 +1,21 @@
+Stock Screening Results
+=====================
+
+Backtest Date: 01-01-2014
+Lookback Days: 60
+Total stocks screened: 5
+Stocks passing all filters: 1
+Minimum price change required: 30.0%
+
+Applied Filters:
+- volume_price: > 50000000
+
+Passing Stocks (Sorted by Price Change %):
+=====================================
+
+Symbol: XPO
+Price Change: 34.82%
+Lowest price (60 days): $6.74
+Highest price (60 days): $9.15
+Total Volume*Price (60 days): $544,411,764.69
+--------------------------------------------------
