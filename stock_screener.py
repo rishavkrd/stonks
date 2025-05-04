@@ -168,7 +168,7 @@ class StockScreener:
         
         return details_file, tv_file
 
-    def screen_stocks(self, symbols, backtest_date, days, filters=None, min_price_change_pct=None, max_tv_stocks=50):
+    def screen_stocks(self, symbols, backtest_date, days, filters=None, min_price_change_pct=None, max_tv_stocks=1000):
         """
         Screen stocks based on filters and price change percentage
         
