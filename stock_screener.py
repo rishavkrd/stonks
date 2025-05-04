@@ -124,16 +124,16 @@ class StockScreener:
         # Generate timestamp
         timestamp = datetime.now().strftime('%H%M%S')
         
-        # Format backtest date for filenames
+        # Format backtest date for filenames (keep YYYY-MM-DD format)
         date_obj = datetime.strptime(backtest_date, '%Y-%m-%d')
-        file_date = date_obj.strftime('%m-%d-%Y')
+        file_date = date_obj.strftime('%Y-%m-%d')  # Changed to YYYY-MM-DD
         
         # Save detailed results
         details_file = os.path.join(self.output_dir, f"results_{file_date}.txt")
         with open(details_file, 'w') as f:
             f.write(f"Stock Screening Results\n")
             f.write(f"=====================\n\n")
-            f.write(f"Backtest Date: {file_date}\n")
+            f.write(f"Backtest Date: {file_date}\n")  # Also use YYYY-MM-DD in content
             f.write(f"Lookback Days: {lookback_days}\n")
             f.write(f"Total stocks screened: {len(self.stocks_data)}\n")
             f.write(f"Stocks passing all filters: {count}\n")
