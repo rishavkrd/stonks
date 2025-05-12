@@ -1,0 +1,1551 @@
+Stock Screening Results
+=====================
+
+Backtest Date: 2003-01-01
+Lookback Days: 60
+Total stocks screened: 6319
+Stocks passing all filters: 256
+Minimum price change required: 30.0%
+
+Applied Filters:
+- volume_price: > 50000000
+
+Passing Stocks (Sorted by Price Change %):
+=====================================
+
+Symbol: GATX
+Price Change: 40.59%
+Lowest price (60 days): $8.65
+Highest price (60 days): $13.04
+Total Volume*Price (60 days): $227,504,575.69
+--------------------------------------------------
+Symbol: AVT
+Price Change: 81.71%
+Lowest price (60 days): $4.68
+Highest price (60 days): $11.10
+Total Volume*Price (60 days): $709,196,352.76
+--------------------------------------------------
+Symbol: OTEX
+Price Change: 32.89%
+Lowest price (60 days): $1.70
+Highest price (60 days): $2.73
+Total Volume*Price (60 days): $314,542,133.17
+--------------------------------------------------
+Symbol: PH
+Price Change: 33.67%
+Lowest price (60 days): $15.91
+Highest price (60 days): $21.66
+Total Volume*Price (60 days): $1,288,837,822.38
+--------------------------------------------------
+Symbol: JNPR
+Price Change: 53.50%
+Lowest price (60 days): $3.41
+Highest price (60 days): $7.58
+Total Volume*Price (60 days): $4,192,560,342.58
+--------------------------------------------------
+Symbol: ASGN
+Price Change: 43.19%
+Lowest price (60 days): $5.95
+Highest price (60 days): $9.37
+Total Volume*Price (60 days): $103,211,194.64
+--------------------------------------------------
+Symbol: BVN
+Price Change: 31.34%
+Lowest price (60 days): $4.13
+Highest price (60 days): $5.53
+Total Volume*Price (60 days): $203,453,061.12
+--------------------------------------------------
+Symbol: ANF
+Price Change: 31.41%
+Lowest price (60 days): $10.35
+Highest price (60 days): $16.82
+Total Volume*Price (60 days): $1,371,551,086.12
+--------------------------------------------------
+Symbol: UFPI
+Price Change: 32.89%
+Lowest price (60 days): $4.41
+Highest price (60 days): $6.04
+Total Volume*Price (60 days): $51,478,614.14
+--------------------------------------------------
+Symbol: OLED
+Price Change: 36.98%
+Lowest price (60 days): $5.51
+Highest price (60 days): $11.10
+Total Volume*Price (60 days): $89,266,015.06
+--------------------------------------------------
+Symbol: PTC
+Price Change: 52.73%
+Lowest price (60 days): $4.12
+Highest price (60 days): $8.00
+Total Volume*Price (60 days): $214,665,855.78
+--------------------------------------------------
+Symbol: BKH
+Price Change: 40.16%
+Lowest price (60 days): $8.05
+Highest price (60 days): $11.81
+Total Volume*Price (60 days): $88,419,781.40
+--------------------------------------------------
+Symbol: JBHT
+Price Change: 35.77%
+Lowest price (60 days): $4.33
+Highest price (60 days): $5.97
+Total Volume*Price (60 days): $599,600,949.78
+--------------------------------------------------
+Symbol: AEP
+Price Change: 57.87%
+Lowest price (60 days): $6.97
+Highest price (60 days): $12.14
+Total Volume*Price (60 days): $2,289,964,947.64
+--------------------------------------------------
+Symbol: FLEX
+Price Change: 39.52%
+Lowest price (60 days): $4.42
+Highest price (60 days): $8.93
+Total Volume*Price (60 days): $5,488,844,267.63
+--------------------------------------------------
+Symbol: ORCL
+Price Change: 40.26%
+Lowest price (60 days): $6.20
+Highest price (60 days): $9.78
+Total Volume*Price (60 days): $22,685,354,526.51
+--------------------------------------------------
+Symbol: ODP
+Price Change: 34.43%
+Lowest price (60 days): $96.24
+Highest price (60 days): $155.24
+Total Volume*Price (60 days): $1,416,911,455.17
+--------------------------------------------------
+Symbol: CNX
+Price Change: 63.63%
+Lowest price (60 days): $3.77
+Highest price (60 days): $6.31
+Total Volume*Price (60 days): $150,732,536.47
+--------------------------------------------------
+Symbol: CMCSA
+Price Change: 35.46%
+Lowest price (60 days): $4.06
+Highest price (60 days): $6.25
+Total Volume*Price (60 days): $7,788,033,583.61
+--------------------------------------------------
+Symbol: CDNS
+Price Change: 31.73%
+Lowest price (60 days): $8.95
+Highest price (60 days): $14.75
+Total Volume*Price (60 days): $1,054,238,633.99
+--------------------------------------------------
+Symbol: CERS
+Price Change: 81.13%
+Lowest price (60 days): $11.87
+Highest price (60 days): $24.48
+Total Volume*Price (60 days): $151,370,934.65
+--------------------------------------------------
+Symbol: TSCO
+Price Change: 32.44%
+Lowest price (60 days): $0.65
+Highest price (60 days): $1.04
+Total Volume*Price (60 days): $701,213,389.77
+--------------------------------------------------
+Symbol: PCAR
+Price Change: 52.08%
+Lowest price (60 days): $2.83
+Highest price (60 days): $4.54
+Total Volume*Price (60 days): $1,627,470,960.97
+--------------------------------------------------
+Symbol: TGI
+Price Change: 30.26%
+Lowest price (60 days): $11.62
+Highest price (60 days): $15.14
+Total Volume*Price (60 days): $128,947,272.15
+--------------------------------------------------
+Symbol: PHG
+Price Change: 31.65%
+Lowest price (60 days): $7.71
+Highest price (60 days): $12.61
+Total Volume*Price (60 days): $678,007,120.69
+--------------------------------------------------
+Symbol: AMKR
+Price Change: 195.65%
+Lowest price (60 days): $1.52
+Highest price (60 days): $7.03
+Total Volume*Price (60 days): $385,174,528.60
+--------------------------------------------------
+Symbol: LOGI
+Price Change: 39.63%
+Lowest price (60 days): $4.05
+Highest price (60 days): $7.14
+Total Volume*Price (60 days): $112,942,403.84
+--------------------------------------------------
+Symbol: WDC
+Price Change: 34.53%
+Lowest price (60 days): $3.19
+Highest price (60 days): $5.98
+Total Volume*Price (60 days): $1,067,449,797.52
+--------------------------------------------------
+Symbol: BBD
+Price Change: 50.35%
+Lowest price (60 days): $0.32
+Highest price (60 days): $0.52
+Total Volume*Price (60 days): $94,914,451.56
+--------------------------------------------------
+Symbol: CNP
+Price Change: 54.18%
+Lowest price (60 days): $2.13
+Highest price (60 days): $3.32
+Total Volume*Price (60 days): $294,699,246.40
+--------------------------------------------------
+Symbol: ANSS
+Price Change: 40.18%
+Lowest price (60 days): $3.60
+Highest price (60 days): $5.38
+Total Volume*Price (60 days): $108,922,388.95
+--------------------------------------------------
+Symbol: CCK
+Price Change: 92.03%
+Lowest price (60 days): $3.97
+Highest price (60 days): $8.62
+Total Volume*Price (60 days): $586,666,652.69
+--------------------------------------------------
+Symbol: AXP
+Price Change: 33.19%
+Lowest price (60 days): $16.88
+Highest price (60 days): $25.07
+Total Volume*Price (60 days): $7,587,091,918.86
+--------------------------------------------------
+Symbol: AEIS
+Price Change: 106.83%
+Lowest price (60 days): $6.04
+Highest price (60 days): $17.92
+Total Volume*Price (60 days): $339,795,522.05
+--------------------------------------------------
+Symbol: VRNT
+Price Change: 139.67%
+Lowest price (60 days): $4.29
+Highest price (60 days): $10.87
+Total Volume*Price (60 days): $211,719,803.56
+--------------------------------------------------
+Symbol: GEN
+Price Change: 34.67%
+Lowest price (60 days): $2.74
+Highest price (60 days): $4.17
+Total Volume*Price (60 days): $3,112,724,172.86
+--------------------------------------------------
+Symbol: ETN
+Price Change: 32.43%
+Lowest price (60 days): $8.38
+Highest price (60 days): $11.23
+Total Volume*Price (60 days): $1,103,556,456.02
+--------------------------------------------------
+Symbol: TSM
+Price Change: 31.78%
+Lowest price (60 days): $2.00
+Highest price (60 days): $3.54
+Total Volume*Price (60 days): $1,575,457,705.63
+--------------------------------------------------
+Symbol: CMI
+Price Change: 44.30%
+Lowest price (60 days): $3.01
+Highest price (60 days): $4.86
+Total Volume*Price (60 days): $629,885,564.38
+--------------------------------------------------
+Symbol: PRA
+Price Change: 33.08%
+Lowest price (60 days): $4.55
+Highest price (60 days): $6.09
+Total Volume*Price (60 days): $66,838,410.01
+--------------------------------------------------
+Symbol: SAIA
+Price Change: 45.74%
+Lowest price (60 days): $4.53
+Highest price (60 days): $6.61
+Total Volume*Price (60 days): $108,125,536.95
+--------------------------------------------------
+Symbol: GPN
+Price Change: 30.42%
+Lowest price (60 days): $5.73
+Highest price (60 days): $7.47
+Total Volume*Price (60 days): $258,969,528.99
+--------------------------------------------------
+Symbol: IGV
+Price Change: 31.44%
+Lowest price (60 days): $3.69
+Highest price (60 days): $5.63
+Total Volume*Price (60 days): $211,624,958.69
+--------------------------------------------------
+Symbol: VLO
+Price Change: 57.90%
+Lowest price (60 days): $3.00
+Highest price (60 days): $4.81
+Total Volume*Price (60 days): $1,595,749,552.63
+--------------------------------------------------
+Symbol: MANH
+Price Change: 82.84%
+Lowest price (60 days): $3.23
+Highest price (60 days): $7.51
+Total Volume*Price (60 days): $822,006,993.42
+--------------------------------------------------
+Symbol: GNTX
+Price Change: 30.85%
+Lowest price (60 days): $3.83
+Highest price (60 days): $5.18
+Total Volume*Price (60 days): $743,890,058.70
+--------------------------------------------------
+Symbol: THG
+Price Change: 41.06%
+Lowest price (60 days): $4.43
+Highest price (60 days): $6.93
+Total Volume*Price (60 days): $229,596,009.89
+--------------------------------------------------
+Symbol: BMRN
+Price Change: 41.00%
+Lowest price (60 days): $5.00
+Highest price (60 days): $8.68
+Total Volume*Price (60 days): $148,340,718.63
+--------------------------------------------------
+Symbol: PBR
+Price Change: 59.23%
+Lowest price (60 days): $0.49
+Highest price (60 days): $0.84
+Total Volume*Price (60 days): $212,299,024.19
+--------------------------------------------------
+Symbol: TXT
+Price Change: 33.36%
+Lowest price (60 days): $13.54
+Highest price (60 days): $18.72
+Total Volume*Price (60 days): $1,280,727,539.04
+--------------------------------------------------
+Symbol: IBM
+Price Change: 40.99%
+Lowest price (60 days): $28.20
+Highest price (60 days): $44.99
+Total Volume*Price (60 days): $23,424,591,581.47
+--------------------------------------------------
+Symbol: TER
+Price Change: 80.19%
+Lowest price (60 days): $6.67
+Highest price (60 days): $15.69
+Total Volume*Price (60 days): $2,062,656,691.23
+--------------------------------------------------
+Symbol: CDE
+Price Change: 46.56%
+Lowest price (60 days): $13.10
+Highest price (60 days): $19.20
+Total Volume*Price (60 days): $129,071,046.25
+--------------------------------------------------
+Symbol: TPR
+Price Change: 39.55%
+Lowest price (60 days): $3.86
+Highest price (60 days): $5.64
+Total Volume*Price (60 days): $1,055,343,214.61
+--------------------------------------------------
+Symbol: SAP
+Price Change: 94.03%
+Lowest price (60 days): $7.28
+Highest price (60 days): $16.40
+Total Volume*Price (60 days): $1,279,525,016.30
+--------------------------------------------------
+Symbol: LSCC
+Price Change: 102.07%
+Lowest price (60 days): $4.34
+Highest price (60 days): $10.74
+Total Volume*Price (60 days): $695,625,054.60
+--------------------------------------------------
+Symbol: RGLD
+Price Change: 57.25%
+Lowest price (60 days): $12.50
+Highest price (60 days): $20.52
+Total Volume*Price (60 days): $451,732,690.03
+--------------------------------------------------
+Symbol: ASA
+Price Change: 47.57%
+Lowest price (60 days): $7.27
+Highest price (60 days): $10.94
+Total Volume*Price (60 days): $286,114,854.71
+--------------------------------------------------
+Symbol: SEAC
+Price Change: 36.36%
+Lowest price (60 days): $90.20
+Highest price (60 days): $155.40
+Total Volume*Price (60 days): $65,493,449.66
+--------------------------------------------------
+Symbol: NVDA
+Price Change: 56.17%
+Lowest price (60 days): $0.06
+Highest price (60 days): $0.13
+Total Volume*Price (60 days): $7,162,017,939.95
+--------------------------------------------------
+Symbol: MRVL
+Price Change: 63.86%
+Lowest price (60 days): $2.46
+Highest price (60 days): $5.19
+Total Volume*Price (60 days): $3,782,861,712.32
+--------------------------------------------------
+Symbol: XEL
+Price Change: 48.04%
+Lowest price (60 days): $3.19
+Highest price (60 days): $4.82
+Total Volume*Price (60 days): $554,569,242.13
+--------------------------------------------------
+Symbol: GCO
+Price Change: 69.52%
+Lowest price (60 days): $10.99
+Highest price (60 days): $20.95
+Total Volume*Price (60 days): $261,814,007.40
+--------------------------------------------------
+Symbol: IT
+Price Change: 50.57%
+Lowest price (60 days): $6.11
+Highest price (60 days): $10.51
+Total Volume*Price (60 days): $96,809,529.64
+--------------------------------------------------
+Symbol: AGYS
+Price Change: 64.52%
+Lowest price (60 days): $5.19
+Highest price (60 days): $9.31
+Total Volume*Price (60 days): $87,681,072.39
+--------------------------------------------------
+Symbol: COLM
+Price Change: 42.33%
+Lowest price (60 days): $11.91
+Highest price (60 days): $18.15
+Total Volume*Price (60 days): $646,590,832.62
+--------------------------------------------------
+Symbol: SANM
+Price Change: 178.88%
+Lowest price (60 days): $9.66
+Highest price (60 days): $29.94
+Total Volume*Price (60 days): $1,736,378,216.51
+--------------------------------------------------
+Symbol: VEON
+Price Change: 32.66%
+Lowest price (60 days): $20.87
+Highest price (60 days): $31.26
+Total Volume*Price (60 days): $245,150,337.57
+--------------------------------------------------
+Symbol: AES
+Price Change: 217.89%
+Lowest price (60 days): $0.64
+Highest price (60 days): $2.41
+Total Volume*Price (60 days): $349,528,453.96
+--------------------------------------------------
+Symbol: DRD
+Price Change: 38.23%
+Lowest price (60 days): $16.07
+Highest price (60 days): $24.25
+Total Volume*Price (60 days): $369,174,433.38
+--------------------------------------------------
+Symbol: PLCE
+Price Change: 40.00%
+Lowest price (60 days): $6.96
+Highest price (60 days): $12.52
+Total Volume*Price (60 days): $191,610,817.71
+--------------------------------------------------
+Symbol: TRMB
+Price Change: 55.74%
+Lowest price (60 days): $1.34
+Highest price (60 days): $2.41
+Total Volume*Price (60 days): $86,973,105.89
+--------------------------------------------------
+Symbol: KELYA
+Price Change: 37.68%
+Lowest price (60 days): $13.51
+Highest price (60 days): $19.13
+Total Volume*Price (60 days): $67,225,335.11
+--------------------------------------------------
+Symbol: BB
+Price Change: 55.82%
+Lowest price (60 days): $1.40
+Highest price (60 days): $2.76
+Total Volume*Price (60 days): $1,317,101,182.53
+--------------------------------------------------
+Symbol: CBRL
+Price Change: 46.94%
+Lowest price (60 days): $10.09
+Highest price (60 days): $14.83
+Total Volume*Price (60 days): $461,081,747.32
+--------------------------------------------------
+Symbol: AZPN
+Price Change: 262.82%
+Lowest price (60 days): $0.78
+Highest price (60 days): $3.53
+Total Volume*Price (60 days): $68,146,496.77
+--------------------------------------------------
+Symbol: DKS
+Price Change: 45.90%
+Lowest price (60 days): $2.41
+Highest price (60 days): $4.13
+Total Volume*Price (60 days): $132,091,054.72
+--------------------------------------------------
+Symbol: HLIT
+Price Change: 123.30%
+Lowest price (60 days): $1.03
+Highest price (60 days): $3.47
+Total Volume*Price (60 days): $76,625,322.20
+--------------------------------------------------
+Symbol: SOXX
+Price Change: 33.64%
+Lowest price (60 days): $7.15
+Highest price (60 days): $12.77
+Total Volume*Price (60 days): $176,786,261.16
+--------------------------------------------------
+Symbol: RBBN
+Price Change: 376.19%
+Lowest price (60 days): $1.05
+Highest price (60 days): $7.50
+Total Volume*Price (60 days): $453,143,706.67
+--------------------------------------------------
+Symbol: MSTR
+Price Change: 104.05%
+Lowest price (60 days): $0.74
+Highest price (60 days): $1.96
+Total Volume*Price (60 days): $265,825,072.37
+--------------------------------------------------
+Symbol: FAST
+Price Change: 37.16%
+Lowest price (60 days): $2.11
+Highest price (60 days): $3.03
+Total Volume*Price (60 days): $996,321,823.45
+--------------------------------------------------
+Symbol: REGN
+Price Change: 46.90%
+Lowest price (60 days): $12.58
+Highest price (60 days): $22.21
+Total Volume*Price (60 days): $339,607,399.63
+--------------------------------------------------
+Symbol: URI
+Price Change: 78.15%
+Lowest price (60 days): $5.89
+Highest price (60 days): $10.49
+Total Volume*Price (60 days): $271,577,460.37
+--------------------------------------------------
+Symbol: SCHW
+Price Change: 49.62%
+Lowest price (60 days): $5.35
+Highest price (60 days): $8.66
+Total Volume*Price (60 days): $1,915,281,109.59
+--------------------------------------------------
+Symbol: CCI
+Price Change: 114.29%
+Lowest price (60 days): $1.12
+Highest price (60 days): $2.78
+Total Volume*Price (60 days): $124,982,760.69
+--------------------------------------------------
+Symbol: BLDP
+Price Change: 62.79%
+Lowest price (60 days): $6.80
+Highest price (60 days): $15.69
+Total Volume*Price (60 days): $572,752,137.34
+--------------------------------------------------
+Symbol: CEVA
+Price Change: 32.21%
+Lowest price (60 days): $4.47
+Highest price (60 days): $7.01
+Total Volume*Price (60 days): $51,169,736.76
+--------------------------------------------------
+Symbol: AU
+Price Change: 45.79%
+Lowest price (60 days): $18.13
+Highest price (60 days): $26.88
+Total Volume*Price (60 days): $1,077,604,982.00
+--------------------------------------------------
+Symbol: CAT
+Price Change: 36.26%
+Lowest price (60 days): $9.60
+Highest price (60 days): $14.28
+Total Volume*Price (60 days): $2,850,995,021.46
+--------------------------------------------------
+Symbol: VOXX
+Price Change: 52.75%
+Lowest price (60 days): $6.77
+Highest price (60 days): $11.34
+Total Volume*Price (60 days): $55,869,886.36
+--------------------------------------------------
+Symbol: KEX
+Price Change: 30.74%
+Lowest price (60 days): $10.48
+Highest price (60 days): $13.69
+Total Volume*Price (60 days): $81,860,457.69
+--------------------------------------------------
+Symbol: QMCO
+Price Change: 88.03%
+Lowest price (60 days): $227.20
+Highest price (60 days): $601.60
+Total Volume*Price (60 days): $111,082,541.01
+--------------------------------------------------
+Symbol: ITUB
+Price Change: 59.84%
+Lowest price (60 days): $0.27
+Highest price (60 days): $0.46
+Total Volume*Price (60 days): $93,621,354.84
+--------------------------------------------------
+Symbol: ADBE
+Price Change: 36.49%
+Lowest price (60 days): $9.06
+Highest price (60 days): $15.09
+Total Volume*Price (60 days): $5,405,264,633.65
+--------------------------------------------------
+Symbol: ODFL
+Price Change: 49.55%
+Lowest price (60 days): $0.81
+Highest price (60 days): $1.21
+Total Volume*Price (60 days): $105,000,530.56
+--------------------------------------------------
+Symbol: NTES
+Price Change: 458.54%
+Lowest price (60 days): $0.08
+Highest price (60 days): $0.52
+Total Volume*Price (60 days): $161,309,127.52
+--------------------------------------------------
+Symbol: SEE
+Price Change: 183.65%
+Lowest price (60 days): $4.60
+Highest price (60 days): $13.42
+Total Volume*Price (60 days): $1,662,851,338.41
+--------------------------------------------------
+Symbol: FORR
+Price Change: 31.28%
+Lowest price (60 days): $9.55
+Highest price (60 days): $13.08
+Total Volume*Price (60 days): $59,175,043.24
+--------------------------------------------------
+Symbol: T
+Price Change: 33.15%
+Lowest price (60 days): $3.11
+Highest price (60 days): $4.38
+Total Volume*Price (60 days): $2,533,589,560.80
+--------------------------------------------------
+Symbol: MKSI
+Price Change: 86.49%
+Lowest price (60 days): $7.27
+Highest price (60 days): $16.11
+Total Volume*Price (60 days): $319,231,270.67
+--------------------------------------------------
+Symbol: VIAV
+Price Change: 52.47%
+Lowest price (60 days): $7.37
+Highest price (60 days): $15.52
+Total Volume*Price (60 days): $4,558,178,786.00
+--------------------------------------------------
+Symbol: SEIC
+Price Change: 43.14%
+Lowest price (60 days): $7.44
+Highest price (60 days): $12.46
+Total Volume*Price (60 days): $707,210,454.67
+--------------------------------------------------
+Symbol: SNPS
+Price Change: 41.43%
+Lowest price (60 days): $16.32
+Highest price (60 days): $26.43
+Total Volume*Price (60 days): $4,542,258,448.36
+--------------------------------------------------
+Symbol: SCI
+Price Change: 37.19%
+Lowest price (60 days): $1.71
+Highest price (60 days): $2.63
+Total Volume*Price (60 days): $89,036,142.34
+--------------------------------------------------
+Symbol: OSUR
+Price Change: 42.67%
+Lowest price (60 days): $3.82
+Highest price (60 days): $7.97
+Total Volume*Price (60 days): $108,445,345.07
+--------------------------------------------------
+Symbol: PFG
+Price Change: 32.53%
+Lowest price (60 days): $12.35
+Highest price (60 days): $16.75
+Total Volume*Price (60 days): $1,206,170,221.65
+--------------------------------------------------
+Symbol: ERIC
+Price Change: 77.37%
+Lowest price (60 days): $1.16
+Highest price (60 days): $3.43
+Total Volume*Price (60 days): $931,689,594.88
+--------------------------------------------------
+Symbol: PHM
+Price Change: 30.94%
+Lowest price (60 days): $7.56
+Highest price (60 days): $10.28
+Total Volume*Price (60 days): $1,404,111,548.28
+--------------------------------------------------
+Symbol: SNBR
+Price Change: 35.64%
+Lowest price (60 days): $4.62
+Highest price (60 days): $6.60
+Total Volume*Price (60 days): $237,098,504.66
+--------------------------------------------------
+Symbol: MEI
+Price Change: 64.96%
+Lowest price (60 days): $4.19
+Highest price (60 days): $7.03
+Total Volume*Price (60 days): $63,320,428.30
+--------------------------------------------------
+Symbol: TT
+Price Change: 44.92%
+Lowest price (60 days): $6.39
+Highest price (60 days): $9.95
+Total Volume*Price (60 days): $1,811,323,594.49
+--------------------------------------------------
+Symbol: WMB
+Price Change: 100.87%
+Lowest price (60 days): $0.46
+Highest price (60 days): $1.04
+Total Volume*Price (60 days): $279,081,050.43
+--------------------------------------------------
+Symbol: AMT
+Price Change: 397.18%
+Lowest price (60 days): $0.53
+Highest price (60 days): $3.08
+Total Volume*Price (60 days): $201,560,465.48
+--------------------------------------------------
+Symbol: ACLS
+Price Change: 58.47%
+Lowest price (60 days): $14.16
+Highest price (60 days): $34.64
+Total Volume*Price (60 days): $295,772,335.82
+--------------------------------------------------
+Symbol: CCRN
+Price Change: 34.13%
+Lowest price (60 days): $10.40
+Highest price (60 days): $16.80
+Total Volume*Price (60 days): $327,242,099.97
+--------------------------------------------------
+Symbol: XRX
+Price Change: 87.21%
+Lowest price (60 days): $5.25
+Highest price (60 days): $10.80
+Total Volume*Price (60 days): $830,334,915.32
+--------------------------------------------------
+Symbol: USB
+Price Change: 31.78%
+Lowest price (60 days): $7.71
+Highest price (60 days): $10.53
+Total Volume*Price (60 days): $2,445,644,035.48
+--------------------------------------------------
+Symbol: INCY
+Price Change: 53.02%
+Lowest price (60 days): $2.98
+Highest price (60 days): $5.99
+Total Volume*Price (60 days): $110,097,722.71
+--------------------------------------------------
+Symbol: VSAT
+Price Change: 75.65%
+Lowest price (60 days): $6.57
+Highest price (60 days): $12.30
+Total Volume*Price (60 days): $126,176,755.28
+--------------------------------------------------
+Symbol: COHU
+Price Change: 47.78%
+Lowest price (60 days): $7.41
+Highest price (60 days): $12.61
+Total Volume*Price (60 days): $76,535,600.55
+--------------------------------------------------
+Symbol: CLH
+Price Change: 104.47%
+Lowest price (60 days): $3.81
+Highest price (60 days): $8.49
+Total Volume*Price (60 days): $142,455,399.37
+--------------------------------------------------
+Symbol: KGC
+Price Change: 58.06%
+Lowest price (60 days): $4.02
+Highest price (60 days): $6.61
+Total Volume*Price (60 days): $173,438,073.35
+--------------------------------------------------
+Symbol: UBS
+Price Change: 39.32%
+Lowest price (60 days): $12.35
+Highest price (60 days): $18.20
+Total Volume*Price (60 days): $437,088,377.46
+--------------------------------------------------
+Symbol: ADTN
+Price Change: 69.59%
+Lowest price (60 days): $6.40
+Highest price (60 days): $11.31
+Total Volume*Price (60 days): $543,222,708.57
+--------------------------------------------------
+Symbol: CGNX
+Price Change: 35.32%
+Lowest price (60 days): $2.66
+Highest price (60 days): $4.49
+Total Volume*Price (60 days): $319,369,228.07
+--------------------------------------------------
+Symbol: HL
+Price Change: 58.12%
+Lowest price (60 days): $2.97
+Highest price (60 days): $4.96
+Total Volume*Price (60 days): $184,019,895.47
+--------------------------------------------------
+Symbol: INFY
+Price Change: 35.91%
+Lowest price (60 days): $1.03
+Highest price (60 days): $1.73
+Total Volume*Price (60 days): $481,778,576.34
+--------------------------------------------------
+Symbol: MRCY
+Price Change: 39.68%
+Lowest price (60 days): $21.85
+Highest price (60 days): $33.55
+Total Volume*Price (60 days): $393,268,906.55
+--------------------------------------------------
+Symbol: NSP
+Price Change: 44.58%
+Lowest price (60 days): $1.29
+Highest price (60 days): $2.37
+Total Volume*Price (60 days): $78,975,939.17
+--------------------------------------------------
+Symbol: CSGS
+Price Change: 52.00%
+Lowest price (60 days): $6.97
+Highest price (60 days): $13.31
+Total Volume*Price (60 days): $308,951,966.53
+--------------------------------------------------
+Symbol: EIX
+Price Change: 50.96%
+Lowest price (60 days): $3.78
+Highest price (60 days): $5.89
+Total Volume*Price (60 days): $478,952,310.37
+--------------------------------------------------
+Symbol: EXTR
+Price Change: 34.57%
+Lowest price (60 days): $2.43
+Highest price (60 days): $5.40
+Total Volume*Price (60 days): $996,481,787.52
+--------------------------------------------------
+Symbol: PXLW
+Price Change: 48.34%
+Lowest price (60 days): $11.73
+Highest price (60 days): $28.02
+Total Volume*Price (60 days): $164,716,051.78
+--------------------------------------------------
+Symbol: FOSL
+Price Change: 30.22%
+Lowest price (60 days): $10.41
+Highest price (60 days): $14.66
+Total Volume*Price (60 days): $378,800,523.53
+--------------------------------------------------
+Symbol: IYW
+Price Change: 30.78%
+Lowest price (60 days): $5.35
+Highest price (60 days): $8.23
+Total Volume*Price (60 days): $240,826,315.98
+--------------------------------------------------
+Symbol: MSM
+Price Change: 62.69%
+Lowest price (60 days): $5.50
+Highest price (60 days): $9.01
+Total Volume*Price (60 days): $55,931,968.00
+--------------------------------------------------
+Symbol: KLIC
+Price Change: 193.33%
+Lowest price (60 days): $1.73
+Highest price (60 days): $5.52
+Total Volume*Price (60 days): $302,353,752.52
+--------------------------------------------------
+Symbol: KOPN
+Price Change: 96.00%
+Lowest price (60 days): $2.00
+Highest price (60 days): $5.77
+Total Volume*Price (60 days): $227,321,177.58
+--------------------------------------------------
+Symbol: HMY
+Price Change: 40.32%
+Lowest price (60 days): $10.13
+Highest price (60 days): $15.20
+Total Volume*Price (60 days): $1,355,808,056.34
+--------------------------------------------------
+Symbol: VALE
+Price Change: 36.90%
+Lowest price (60 days): $0.60
+Highest price (60 days): $0.82
+Total Volume*Price (60 days): $118,915,203.78
+--------------------------------------------------
+Symbol: PLAB
+Price Change: 73.42%
+Lowest price (60 days): $7.90
+Highest price (60 days): $16.85
+Total Volume*Price (60 days): $483,371,873.59
+--------------------------------------------------
+Symbol: RL
+Price Change: 31.32%
+Lowest price (60 days): $12.53
+Highest price (60 days): $18.64
+Total Volume*Price (60 days): $365,743,084.65
+--------------------------------------------------
+Symbol: ASML
+Price Change: 66.87%
+Lowest price (60 days): $3.76
+Highest price (60 days): $8.80
+Total Volume*Price (60 days): $827,364,838.21
+--------------------------------------------------
+Symbol: FI
+Price Change: 49.63%
+Lowest price (60 days): $5.67
+Highest price (60 days): $8.76
+Total Volume*Price (60 days): $3,493,057,758.18
+--------------------------------------------------
+Symbol: CLS
+Price Change: 39.88%
+Lowest price (60 days): $10.08
+Highest price (60 days): $18.66
+Total Volume*Price (60 days): $1,782,534,708.61
+--------------------------------------------------
+Symbol: GFI
+Price Change: 40.30%
+Lowest price (60 days): $5.62
+Highest price (60 days): $8.39
+Total Volume*Price (60 days): $1,034,836,454.65
+--------------------------------------------------
+Symbol: EXEL
+Price Change: 164.90%
+Lowest price (60 days): $3.02
+Highest price (60 days): $9.06
+Total Volume*Price (60 days): $136,785,856.23
+--------------------------------------------------
+Symbol: HRB
+Price Change: 31.40%
+Lowest price (60 days): $7.30
+Highest price (60 days): $10.97
+Total Volume*Price (60 days): $2,769,890,799.82
+--------------------------------------------------
+Symbol: DOX
+Price Change: 65.04%
+Lowest price (60 days): $4.80
+Highest price (60 days): $9.55
+Total Volume*Price (60 days): $707,438,571.97
+--------------------------------------------------
+Symbol: PLUG
+Price Change: 30.52%
+Lowest price (60 days): $34.40
+Highest price (60 days): $70.10
+Total Volume*Price (60 days): $55,517,582.24
+--------------------------------------------------
+Symbol: PCG
+Price Change: 69.72%
+Lowest price (60 days): $5.03
+Highest price (60 days): $8.55
+Total Volume*Price (60 days): $618,775,122.90
+--------------------------------------------------
+Symbol: FICO
+Price Change: 43.35%
+Lowest price (60 days): $19.24
+Highest price (60 days): $28.29
+Total Volume*Price (60 days): $831,465,978.71
+--------------------------------------------------
+Symbol: LRCX
+Price Change: 60.71%
+Lowest price (60 days): $0.61
+Highest price (60 days): $1.56
+Total Volume*Price (60 days): $1,567,090,649.20
+--------------------------------------------------
+Symbol: KTOS
+Price Change: 48.40%
+Lowest price (60 days): $40.50
+Highest price (60 days): $73.90
+Total Volume*Price (60 days): $71,101,303.41
+--------------------------------------------------
+Symbol: MMS
+Price Change: 41.08%
+Lowest price (60 days): $3.79
+Highest price (60 days): $6.02
+Total Volume*Price (60 days): $199,276,345.67
+--------------------------------------------------
+Symbol: SWKS
+Price Change: 110.76%
+Lowest price (60 days): $3.37
+Highest price (60 days): $10.07
+Total Volume*Price (60 days): $2,340,845,007.34
+--------------------------------------------------
+Symbol: POWI
+Price Change: 68.15%
+Lowest price (60 days): $4.44
+Highest price (60 days): $9.34
+Total Volume*Price (60 days): $438,827,581.48
+--------------------------------------------------
+Symbol: JBLU
+Price Change: 34.33%
+Lowest price (60 days): $8.93
+Highest price (60 days): $12.42
+Total Volume*Price (60 days): $1,892,619,573.17
+--------------------------------------------------
+Symbol: APH
+Price Change: 37.43%
+Lowest price (60 days): $0.75
+Highest price (60 days): $1.24
+Total Volume*Price (60 days): $464,977,477.70
+--------------------------------------------------
+Symbol: HELE
+Price Change: 30.35%
+Lowest price (60 days): $8.93
+Highest price (60 days): $11.65
+Total Volume*Price (60 days): $108,219,298.17
+--------------------------------------------------
+Symbol: RMBS
+Price Change: 68.59%
+Lowest price (60 days): $3.98
+Highest price (60 days): $9.42
+Total Volume*Price (60 days): $329,788,568.73
+--------------------------------------------------
+Symbol: SRE
+Price Change: 40.33%
+Lowest price (60 days): $4.07
+Highest price (60 days): $5.82
+Total Volume*Price (60 days): $646,905,041.46
+--------------------------------------------------
+Symbol: KR
+Price Change: 35.41%
+Lowest price (60 days): $4.08
+Highest price (60 days): $5.73
+Total Volume*Price (60 days): $2,795,669,113.93
+--------------------------------------------------
+Symbol: ALK
+Price Change: 53.44%
+Lowest price (60 days): $3.17
+Highest price (60 days): $5.33
+Total Volume*Price (60 days): $353,300,577.83
+--------------------------------------------------
+Symbol: EBAY
+Price Change: 33.93%
+Lowest price (60 days): $4.79
+Highest price (60 days): $6.70
+Total Volume*Price (60 days): $21,749,561,566.83
+--------------------------------------------------
+Symbol: MET
+Price Change: 31.42%
+Lowest price (60 days): $10.57
+Highest price (60 days): $14.60
+Total Volume*Price (60 days): $2,544,448,543.38
+--------------------------------------------------
+Symbol: WY
+Price Change: 30.48%
+Lowest price (60 days): $6.62
+Highest price (60 days): $9.23
+Total Volume*Price (60 days): $496,981,205.56
+--------------------------------------------------
+Symbol: A
+Price Change: 65.53%
+Lowest price (60 days): $6.52
+Highest price (60 days): $11.77
+Total Volume*Price (60 days): $2,014,376,490.60
+--------------------------------------------------
+Symbol: SBAC
+Price Change: 105.00%
+Lowest price (60 days): $0.19
+Highest price (60 days): $0.78
+Total Volume*Price (60 days): $65,195,641.50
+--------------------------------------------------
+Symbol: SSRM
+Price Change: 55.07%
+Lowest price (60 days): $3.29
+Highest price (60 days): $5.10
+Total Volume*Price (60 days): $63,980,529.62
+--------------------------------------------------
+Symbol: AJG
+Price Change: 33.63%
+Lowest price (60 days): $11.06
+Highest price (60 days): $14.91
+Total Volume*Price (60 days): $319,214,733.31
+--------------------------------------------------
+Symbol: RHI
+Price Change: 33.58%
+Lowest price (60 days): $8.13
+Highest price (60 days): $13.91
+Total Volume*Price (60 days): $691,548,933.60
+--------------------------------------------------
+Symbol: SNA
+Price Change: 31.93%
+Lowest price (60 days): $12.39
+Highest price (60 days): $17.58
+Total Volume*Price (60 days): $221,213,278.14
+--------------------------------------------------
+Symbol: PAAS
+Price Change: 59.67%
+Lowest price (60 days): $3.83
+Highest price (60 days): $6.14
+Total Volume*Price (60 days): $121,413,011.20
+--------------------------------------------------
+Symbol: RDY
+Price Change: 40.48%
+Lowest price (60 days): $1.23
+Highest price (60 days): $1.73
+Total Volume*Price (60 days): $103,281,443.97
+--------------------------------------------------
+Symbol: AN
+Price Change: 38.33%
+Lowest price (60 days): $9.08
+Highest price (60 days): $12.59
+Total Volume*Price (60 days): $842,733,736.78
+--------------------------------------------------
+Symbol: MTCH
+Price Change: 41.31%
+Lowest price (60 days): $4.22
+Highest price (60 days): $7.73
+Total Volume*Price (60 days): $5,933,398,632.77
+--------------------------------------------------
+Symbol: DXC
+Price Change: 40.27%
+Lowest price (60 days): $7.52
+Highest price (60 days): $10.76
+Total Volume*Price (60 days): $1,564,137,739.78
+--------------------------------------------------
+Symbol: KLAC
+Price Change: 35.31%
+Lowest price (60 days): $13.84
+Highest price (60 days): $24.25
+Total Volume*Price (60 days): $18,528,095,232.11
+--------------------------------------------------
+Symbol: FCX
+Price Change: 60.11%
+Lowest price (60 days): $3.06
+Highest price (60 days): $4.92
+Total Volume*Price (60 days): $657,349,459.98
+--------------------------------------------------
+Symbol: HPQ
+Price Change: 56.23%
+Lowest price (60 days): $3.08
+Highest price (60 days): $5.48
+Total Volume*Price (60 days): $8,044,478,933.59
+--------------------------------------------------
+Symbol: LPX
+Price Change: 49.26%
+Lowest price (60 days): $4.27
+Highest price (60 days): $7.09
+Total Volume*Price (60 days): $193,612,555.70
+--------------------------------------------------
+Symbol: AEO
+Price Change: 33.92%
+Lowest price (60 days): $1.83
+Highest price (60 days): $3.59
+Total Volume*Price (60 days): $745,744,038.43
+--------------------------------------------------
+Symbol: F
+Price Change: 31.65%
+Lowest price (60 days): $3.29
+Highest price (60 days): $5.34
+Total Volume*Price (60 days): $3,245,226,110.71
+--------------------------------------------------
+Symbol: TREX
+Price Change: 56.61%
+Lowest price (60 days): $2.82
+Highest price (60 days): $4.78
+Total Volume*Price (60 days): $186,776,508.47
+--------------------------------------------------
+Symbol: IAC
+Price Change: 41.31%
+Lowest price (60 days): $2.76
+Highest price (60 days): $5.05
+Total Volume*Price (60 days): $6,197,957,411.25
+--------------------------------------------------
+Symbol: NI
+Price Change: 38.41%
+Lowest price (60 days): $2.35
+Highest price (60 days): $3.30
+Total Volume*Price (60 days): $640,155,226.97
+--------------------------------------------------
+Symbol: NTAP
+Price Change: 77.62%
+Lowest price (60 days): $4.21
+Highest price (60 days): $10.74
+Total Volume*Price (60 days): $3,674,101,930.75
+--------------------------------------------------
+Symbol: BHE
+Price Change: 76.04%
+Lowest price (60 days): $6.09
+Highest price (60 days): $11.68
+Total Volume*Price (60 days): $441,929,205.71
+--------------------------------------------------
+Symbol: IGM
+Price Change: 30.89%
+Lowest price (60 days): $3.42
+Highest price (60 days): $5.29
+Total Volume*Price (60 days): $72,131,620.92
+--------------------------------------------------
+Symbol: NFLX
+Price Change: 110.92%
+Lowest price (60 days): $0.37
+Highest price (60 days): $0.91
+Total Volume*Price (60 days): $221,822,325.20
+--------------------------------------------------
+Symbol: VOD
+Price Change: 36.76%
+Lowest price (60 days): $4.66
+Highest price (60 days): $7.11
+Total Volume*Price (60 days): $1,114,580,765.75
+--------------------------------------------------
+Symbol: FFIV
+Price Change: 58.41%
+Lowest price (60 days): $3.39
+Highest price (60 days): $7.18
+Total Volume*Price (60 days): $351,823,564.65
+--------------------------------------------------
+Symbol: MS
+Price Change: 36.20%
+Lowest price (60 days): $15.26
+Highest price (60 days): $24.16
+Total Volume*Price (60 days): $6,784,344,428.52
+--------------------------------------------------
+Symbol: JAKK
+Price Change: 41.49%
+Lowest price (60 days): $89.63
+Highest price (60 days): $155.35
+Total Volume*Price (60 days): $170,311,588.86
+--------------------------------------------------
+Symbol: PEG
+Price Change: 50.29%
+Lowest price (60 days): $4.53
+Highest price (60 days): $6.84
+Total Volume*Price (60 days): $1,393,556,428.32
+--------------------------------------------------
+Symbol: D
+Price Change: 52.42%
+Lowest price (60 days): $7.26
+Highest price (60 days): $11.15
+Total Volume*Price (60 days): $3,022,261,734.75
+--------------------------------------------------
+Symbol: IRM
+Price Change: 54.04%
+Lowest price (60 days): $3.59
+Highest price (60 days): $5.62
+Total Volume*Price (60 days): $292,033,431.53
+--------------------------------------------------
+Symbol: AEM
+Price Change: 37.59%
+Lowest price (60 days): $8.24
+Highest price (60 days): $11.76
+Total Volume*Price (60 days): $537,533,335.54
+--------------------------------------------------
+Symbol: AGEN
+Price Change: 49.27%
+Lowest price (60 days): $807.85
+Highest price (60 days): $1436.70
+Total Volume*Price (60 days): $149,644,747.57
+--------------------------------------------------
+Symbol: FCEL
+Price Change: 43.01%
+Lowest price (60 days): $19785.60
+Highest price (60 days): $39096.00
+Total Volume*Price (60 days): $144,526,291.93
+--------------------------------------------------
+Symbol: EPAC
+Price Change: 39.91%
+Lowest price (60 days): $8.03
+Highest price (60 days): $11.23
+Total Volume*Price (60 days): $180,035,116.40
+--------------------------------------------------
+Symbol: GRMN
+Price Change: 62.78%
+Lowest price (60 days): $4.77
+Highest price (60 days): $8.03
+Total Volume*Price (60 days): $280,850,435.87
+--------------------------------------------------
+Symbol: BBY
+Price Change: 36.60%
+Lowest price (60 days): $6.77
+Highest price (60 days): $10.74
+Total Volume*Price (60 days): $4,488,677,345.33
+--------------------------------------------------
+Symbol: FLR
+Price Change: 34.52%
+Lowest price (60 days): $8.19
+Highest price (60 days): $11.18
+Total Volume*Price (60 days): $605,734,372.63
+--------------------------------------------------
+Symbol: JPM
+Price Change: 55.34%
+Lowest price (60 days): $8.21
+Highest price (60 days): $13.39
+Total Volume*Price (60 days): $8,472,417,193.11
+--------------------------------------------------
+Symbol: TMO
+Price Change: 32.46%
+Lowest price (60 days): $14.42
+Highest price (60 days): $19.49
+Total Volume*Price (60 days): $745,821,542.39
+--------------------------------------------------
+Symbol: NKTR
+Price Change: 62.90%
+Lowest price (60 days): $4.96
+Highest price (60 days): $9.13
+Total Volume*Price (60 days): $127,174,034.21
+--------------------------------------------------
+Symbol: KNX
+Price Change: 37.34%
+Lowest price (60 days): $5.22
+Highest price (60 days): $7.16
+Total Volume*Price (60 days): $261,756,656.00
+--------------------------------------------------
+Symbol: ACN
+Price Change: 45.55%
+Lowest price (60 days): $8.68
+Highest price (60 days): $14.06
+Total Volume*Price (60 days): $1,604,785,180.70
+--------------------------------------------------
+Symbol: OI
+Price Change: 45.65%
+Lowest price (60 days): $9.81
+Highest price (60 days): $15.39
+Total Volume*Price (60 days): $309,061,666.59
+--------------------------------------------------
+Symbol: ENTG
+Price Change: 131.98%
+Lowest price (60 days): $4.27
+Highest price (60 days): $10.40
+Total Volume*Price (60 days): $227,116,271.82
+--------------------------------------------------
+Symbol: TK
+Price Change: 55.65%
+Lowest price (60 days): $6.75
+Highest price (60 days): $10.77
+Total Volume*Price (60 days): $182,684,080.81
+--------------------------------------------------
+Symbol: SOHU
+Price Change: 326.67%
+Lowest price (60 days): $1.50
+Highest price (60 days): $6.84
+Total Volume*Price (60 days): $149,938,808.12
+--------------------------------------------------
+Symbol: C
+Price Change: 32.29%
+Lowest price (60 days): $158.45
+Highest price (60 days): $232.13
+Total Volume*Price (60 days): $22,973,830,200.38
+--------------------------------------------------
+Symbol: JCI
+Price Change: 40.81%
+Lowest price (60 days): $12.33
+Highest price (60 days): $18.03
+Total Volume*Price (60 days): $6,181,600,590.70
+--------------------------------------------------
+Symbol: JBL
+Price Change: 55.42%
+Lowest price (60 days): $8.96
+Highest price (60 days): $17.70
+Total Volume*Price (60 days): $1,703,646,002.50
+--------------------------------------------------
+Symbol: AMD
+Price Change: 101.87%
+Lowest price (60 days): $3.20
+Highest price (60 days): $9.00
+Total Volume*Price (60 days): $4,201,115,251.98
+--------------------------------------------------
+Symbol: VSH
+Price Change: 59.03%
+Lowest price (60 days): $5.07
+Highest price (60 days): $10.40
+Total Volume*Price (60 days): $576,498,912.27
+--------------------------------------------------
+Symbol: VRSN
+Price Change: 94.19%
+Lowest price (60 days): $3.51
+Highest price (60 days): $8.99
+Total Volume*Price (60 days): $1,818,916,785.22
+--------------------------------------------------
+Symbol: ARW
+Price Change: 39.93%
+Lowest price (60 days): $9.14
+Highest price (60 days): $16.32
+Total Volume*Price (60 days): $540,399,391.54
+--------------------------------------------------
+Symbol: PNW
+Price Change: 53.93%
+Lowest price (60 days): $8.23
+Highest price (60 days): $12.74
+Total Volume*Price (60 days): $552,349,110.00
+--------------------------------------------------
+Symbol: CHH
+Price Change: 30.46%
+Lowest price (60 days): $4.82
+Highest price (60 days): $6.61
+Total Volume*Price (60 days): $61,418,166.93
+--------------------------------------------------
+Symbol: AME
+Price Change: 46.30%
+Lowest price (60 days): $3.37
+Highest price (60 days): $4.94
+Total Volume*Price (60 days): $232,606,194.26
+--------------------------------------------------
+Symbol: AB
+Price Change: 31.60%
+Lowest price (60 days): $4.65
+Highest price (60 days): $6.92
+Total Volume*Price (60 days): $95,168,229.28
+--------------------------------------------------
+Symbol: ROK
+Price Change: 39.11%
+Lowest price (60 days): $9.30
+Highest price (60 days): $13.59
+Total Volume*Price (60 days): $528,071,968.57
+--------------------------------------------------
+Symbol: JKHY
+Price Change: 45.32%
+Lowest price (60 days): $6.29
+Highest price (60 days): $9.94
+Total Volume*Price (60 days): $297,808,578.03
+--------------------------------------------------
+Symbol: CTSH
+Price Change: 50.48%
+Lowest price (60 days): $1.80
+Highest price (60 days): $2.83
+Total Volume*Price (60 days): $2,119,170,289.33
+--------------------------------------------------
+Symbol: J
+Price Change: 35.41%
+Lowest price (60 days): $10.61
+Highest price (60 days): $14.88
+Total Volume*Price (60 days): $544,345,222.04
+--------------------------------------------------
+Symbol: CSCO
+Price Change: 52.33%
+Lowest price (60 days): $5.66
+Highest price (60 days): $10.03
+Total Volume*Price (60 days): $43,098,175,381.73
+--------------------------------------------------
+Symbol: AKAM
+Price Change: 158.21%
+Lowest price (60 days): $0.67
+Highest price (60 days): $2.20
+Total Volume*Price (60 days): $123,760,029.44
+--------------------------------------------------
+Symbol: HAL
+Price Change: 47.38%
+Lowest price (60 days): $4.53
+Highest price (60 days): $7.63
+Total Volume*Price (60 days): $3,661,506,315.30
+--------------------------------------------------
+Symbol: HTLD
+Price Change: 35.80%
+Lowest price (60 days): $5.73
+Highest price (60 days): $7.82
+Total Volume*Price (60 days): $134,605,573.91
+--------------------------------------------------
+Symbol: SYNA
+Price Change: 108.22%
+Lowest price (60 days): $2.43
+Highest price (60 days): $5.95
+Total Volume*Price (60 days): $119,505,398.44
+--------------------------------------------------
+Symbol: CIEN
+Price Change: 109.80%
+Lowest price (60 days): $17.15
+Highest price (60 days): $46.55
+Total Volume*Price (60 days): $3,214,482,737.38
+--------------------------------------------------
+Symbol: FLS
+Price Change: 87.22%
+Lowest price (60 days): $1.97
+Highest price (60 days): $3.84
+Total Volume*Price (60 days): $256,170,155.13
+--------------------------------------------------
+Symbol: BKNG
+Price Change: 45.45%
+Lowest price (60 days): $6.53
+Highest price (60 days): $13.77
+Total Volume*Price (60 days): $203,527,191.91
+--------------------------------------------------
+Symbol: STM
+Price Change: 70.99%
+Lowest price (60 days): $6.86
+Highest price (60 days): $15.74
+Total Volume*Price (60 days): $1,458,223,580.35
+--------------------------------------------------
+Symbol: UIS
+Price Change: 62.83%
+Lowest price (60 days): $60.80
+Highest price (60 days): $112.10
+Total Volume*Price (60 days): $818,178,157.70
+--------------------------------------------------
+Symbol: ROL
+Price Change: 34.93%
+Lowest price (60 days): $0.81
+Highest price (60 days): $1.20
+Total Volume*Price (60 days): $58,125,102.83
+--------------------------------------------------
+Symbol: ADI
+Price Change: 30.51%
+Lowest price (60 days): $11.35
+Highest price (60 days): $19.40
+Total Volume*Price (60 days): $3,942,738,382.33
+--------------------------------------------------
+Symbol: HUBB
+Price Change: 33.61%
+Lowest price (60 days): $15.04
+Highest price (60 days): $20.74
+Total Volume*Price (60 days): $148,057,766.84
+--------------------------------------------------
+Symbol: CBT
+Price Change: 36.62%
+Lowest price (60 days): $11.62
+Highest price (60 days): $16.42
+Total Volume*Price (60 days): $219,277,084.98
+--------------------------------------------------
+Symbol: RYAAY
+Price Change: 30.84%
+Lowest price (60 days): $5.82
+Highest price (60 days): $9.33
+Total Volume*Price (60 days): $1,022,351,401.19
+--------------------------------------------------
+Symbol: SLGN
+Price Change: 34.06%
+Lowest price (60 days): $1.74
+Highest price (60 days): $2.50
+Total Volume*Price (60 days): $105,943,009.91
+--------------------------------------------------
+Symbol: CRUS
+Price Change: 92.00%
+Lowest price (60 days): $1.50
+Highest price (60 days): $6.35
+Total Volume*Price (60 days): $319,351,388.91
+--------------------------------------------------
+Symbol: IDCC
+Price Change: 64.89%
+Lowest price (60 days): $6.70
+Highest price (60 days): $14.50
+Total Volume*Price (60 days): $421,381,068.86
+--------------------------------------------------
+Symbol: IYZ
+Price Change: 34.82%
+Lowest price (60 days): $7.78
+Highest price (60 days): $11.47
+Total Volume*Price (60 days): $72,672,470.68
+--------------------------------------------------
+Symbol: CAL
+Price Change: 66.29%
+Lowest price (60 days): $4.42
+Highest price (60 days): $8.02
+Total Volume*Price (60 days): $103,009,589.95
+--------------------------------------------------
+Symbol: CNC
+Price Change: 31.42%
+Lowest price (60 days): $2.13
+Highest price (60 days): $2.88
+Total Volume*Price (60 days): $238,808,442.49
+--------------------------------------------------
+Symbol: DY
+Price Change: 54.25%
+Lowest price (60 days): $8.59
+Highest price (60 days): $15.37
+Total Volume*Price (60 days): $170,447,654.94
+--------------------------------------------------
+Symbol: GLW
+Price Change: 200.91%
+Lowest price (60 days): $0.73
+Highest price (60 days): $3.33
+Total Volume*Price (60 days): $1,451,447,658.20
+--------------------------------------------------
+Symbol: QCOM
+Price Change: 30.38%
+Lowest price (60 days): $8.79
+Highest price (60 days): $13.45
+Total Volume*Price (60 days): $21,661,085,144.36
+--------------------------------------------------
+Symbol: CMS
+Price Change: 66.65%
+Lowest price (60 days): $3.16
+Highest price (60 days): $5.85
+Total Volume*Price (60 days): $400,796,188.06
+--------------------------------------------------
+Symbol: TTEK
+Price Change: 87.40%
+Lowest price (60 days): $1.25
+Highest price (60 days): $2.66
+Total Volume*Price (60 days): $225,705,124.84
+--------------------------------------------------
